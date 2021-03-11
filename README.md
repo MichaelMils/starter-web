@@ -16,4 +16,11 @@ This is a simple web project
 
 ## How To Continu
 
+<<<<<<< HEAD
 Please fork this repoe
+=======
+
+### Copyright
+
+2014 Git.Traininge
+>>>>>>> simple-changes
