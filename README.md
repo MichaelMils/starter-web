@@ -14,4 +14,9 @@ As stated above, the main purpose is to provid simple exmaples for Git training
 
 This is a simple web project
 
-## How To Continue
+## How To Continu
+
+
+### Copyright
+
+2014 Git.Traininge
