@@ -14,13 +14,11 @@ As stated above, the main purpose is to provid simple exmaples for Git training
 
 This is a simple web project
 
-## How To Continu
+## How To Continue
 
-<<<<<<< HEAD
+
 Please fork this repoe
-=======
 
 ### Copyright
 
-2014 Git.Traininge
->>>>>>> simple-changes
+2014 Git.Training
