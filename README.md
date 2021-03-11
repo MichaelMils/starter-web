@@ -8,6 +8,10 @@ This is example to show diffrent parts
 
 ## Purposse
 
+As stated above, the main purpose is to provid simple exmaples for Git training
+
 ## Deployment
+
+This is a simple web project
 
 ## How To Continue
