@@ -3,7 +3,7 @@
 This is a simple project for showing how to use GIT
 
 
-Adding a line for rebasing example, then more changes
+Adding a line for rebasing example, then more change from myfeature branchs
 more text
 ## Introduction
 
