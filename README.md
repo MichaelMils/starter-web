@@ -2,8 +2,9 @@
 
 This is a simple project for showing how to use GIT
 
-Adding a line for rebasing example, then more changes
 
+Adding a line for rebasing example, then more changes
+more text
 ## Introduction
 
 This is example to show diffrent parts
