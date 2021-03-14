@@ -5,6 +5,7 @@ This is a simple project for showing how to use GIT
 
 Adding a line for rebasing example, then more change from myfeature branchs
 more text
+Emergency fix
 ## Introduction
 
 This is example to show diffrent parts
