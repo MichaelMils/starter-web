@@ -24,4 +24,4 @@ Please fork this repoe
 
 ### Copyright
 
-2014 Git.Training
+2014 Git.Trainin All rights reservedg
